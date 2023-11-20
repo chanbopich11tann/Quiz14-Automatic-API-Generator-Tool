@@ -115,5 +115,13 @@ Tutorial on integrating SOAP web service.
 
 Feel free to explore each activity to learn more about LoopBack4 and its capabilities.
 
-![](images/
-![](images/
+![](images/Screenshot%202023-11-19%20at%209.00.36%E2%80%AFPM.png)
+
+![](images/Screenshot%202023-11-19%20at%209.00.57%E2%80%AFPM.png)
+
+
+## Activity 5: 
+
+![](images/Screenshot%202023-11-19%20at%209.09.06%E2%80%AFPM.png)
+
+
