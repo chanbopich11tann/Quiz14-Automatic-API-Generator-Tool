@@ -76,6 +76,8 @@ npm start
 
 Visit [http://127.0.0.1:3000/hello](http://127.0.0.1:3000/hello) to see "Hello world!"
 
+!(images/Screenshot 2023-11-19 at 5.27.47 PM.png)|
+
 ## Activity 2: To Do
 
 Tutorial on building a simple application with LoopBack 4 key concepts using a bottom-up approach.
