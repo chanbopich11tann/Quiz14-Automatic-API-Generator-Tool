@@ -76,7 +76,7 @@ npm start
 
 Visit [http://127.0.0.1:3000/hello](http://127.0.0.1:3000/hello) to see "Hello world!"
 
-!(images/Screenshot 2023-11-19 at 5.27.47 PM.png)|
+!(images/Screenshot%202023-11-19%20at%205.27.47%E2%80%AFPM.png)|
 
 ## Activity 2: To Do
 
