@@ -76,7 +76,11 @@ npm start
 
 Visit [http://127.0.0.1:3000/hello](http://127.0.0.1:3000/hello) to see "Hello world!"
 
+
+### Result:
+
 ![](images/Screenshot%202023-11-19%20at%205.27.47%E2%80%AFPM.png)
+
 
 
 
@@ -84,8 +88,30 @@ Visit [http://127.0.0.1:3000/hello](http://127.0.0.1:3000/hello) to see "Hello w
 
 ## Activity 2: To Do
 
-Tutorial on building a simple application with LoopBack 4 key concepts using a bottom-up approach.
+### Overview
 
+This tutorial guides you through creating a basic API for a to-do list using LoopBack 4. Learn how to build REST APIs in just 5 steps.
+
+### Setup
+
+Ensure you have the following installed:
+
+- Node.js (v10 or greater)
+- Familiarity with JavaScript (ES6) and REST concepts
+- LoopBack 4 CLI toolkit: `npm i -g @loopback/cli`
+
+### Steps
+
+1. Create app scaffolding
+2. Add Todo model
+3. Add a datasource
+4. Add a repository
+5. Add a controller
+6. Putting it all together
+7. Bonus: Integrate with a geo-coding service
+
+
+### Result:
 
 
 ![](images/Screenshot%202023-11-19%20at%206.18.24%E2%80%AFPM.png)
@@ -98,8 +124,24 @@ Tutorial on building a simple application with LoopBack 4 key concepts using a b
 
 ## Activity 3: Todo-List
 
-Tutorial on introducing related models and building their API from the Todo tutorial.
+### Overview
 
+Learn how to create a set of APIs for related models. This tutorial builds on the @loopback/example-todo.
+
+### Setup
+
+Follow steps in the tutorial or use LoopBack 4 CLI to catch up:
+
+```bash
+lb4 example todo
+```
+
+### Tutorial Steps
+Add TodoList Model
+Add TodoList Repository
+Add TodoList and TodoList’s Todo Controller
+
+### Result:
 
 ![](images/Screenshot%202023-11-19%20at%208.21.23%E2%80%AFPM.png)
 
@@ -111,10 +153,26 @@ Tutorial on introducing related models and building their API from the Todo tuto
 
 ## Activity 4: soap-calculator
 
-Tutorial on integrating SOAP web service.
+### Overview
+Integrate a SOAP web service with LoopBack 4 and expose its methods through the REST API server. Includes acceptance and integration tests.
 
-Feel free to explore each activity to learn more about LoopBack4 and its capabilities.
+### Setup
+Ensure you have Node.js (v10 or greater) and the LoopBack 4 CLI toolkit:
 
+```bash
+npm i -g @loopback/cli
+```
+
+### Tutorial Steps
+1. SOAP web service overview
+2. Scaffold the application
+3. Add a data source
+4. Add a service proxy
+5. Add a controller
+6. Run and test the application
+
+
+### Results
 ![](images/Screenshot%202023-11-19%20at%209.00.36%E2%80%AFPM.png)
 
 ![](images/Screenshot%202023-11-19%20at%209.00.57%E2%80%AFPM.png)
