@@ -86,12 +86,34 @@ Visit [http://127.0.0.1:3000/hello](http://127.0.0.1:3000/hello) to see "Hello w
 
 Tutorial on building a simple application with LoopBack 4 key concepts using a bottom-up approach.
 
+
+
+![](images/Screenshot%202023-11-19%20at%206.18.24%E2%80%AFPM.png)
+
+![](images/Screenshot%202023-11-19%20at%206.19.19%E2%80%AFPM.png)
+
+![](images/Screenshot%202023-11-19%20at%206.19.41%E2%80%AFPM.png)
+
+
+
 ## Activity 3: Todo-List
 
 Tutorial on introducing related models and building their API from the Todo tutorial.
+
+
+![](images/Screenshot%202023-11-19%20at%208.21.23%E2%80%AFPM.png)
+
+![](images/Screenshot%202023-11-19%20at%208.21.32%E2%80%AFPM.png)
+
+![](images/Screenshot%202023-11-19%20at%208.21.42%E2%80%AFPM.png)
+
+![](images/Screenshot%202023-11-19%20at%208.21.52%E2%80%AFPM.png)
 
 ## Activity 4: soap-calculator
 
 Tutorial on integrating SOAP web service.
 
 Feel free to explore each activity to learn more about LoopBack4 and its capabilities.
+
+![](images/
+![](images/
